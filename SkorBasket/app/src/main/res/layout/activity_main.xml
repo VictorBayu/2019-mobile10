@@ -28,7 +28,8 @@
 		app:layout_constraintBottom_toTopOf="@+id/guideline4"
 		app:layout_constraintLeft_toLeftOf="@+id/guideline"
 		app:layout_constraintRight_toRightOf="parent"
-		app:layout_constraintTop_toTopOf="parent">
+		app:layout_constraintTop_toTopOf="parent"
+		tools:layout="@layout/fragment_visitor">
 
 	</fragment>
 
